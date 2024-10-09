@@ -15,4 +15,9 @@ class Company extends Model
     {
         return $this->hasMany(Experience::class, 'company_id');
     }
+
+    public function projects(): HasMany
+    {
+        return $this->hasMany(Project::class, 'company_id');
+    }
 }
