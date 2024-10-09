@@ -1,9 +1,9 @@
 # Erwin Mapaliey Development Portofolio #
 
-### Description
+### Description ###
 This application is CMS Website for my personal portfolio website data management, build with Laravel 11 & Filament 3
 
-### Tech Stack
+### Tech Stack ###
 * Laravel 11
 * Filament 3
 * MySQL Database
